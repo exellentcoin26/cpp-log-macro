@@ -3,7 +3,7 @@ A simple cpp logging macro configurable with log levels and stream output.
 
 ## Quick start
 
-Copy the [`log.hpp`](./include/log.hpp) file to your local project and include it. Or use the repository as a git submodule.
+Copy the [`log.hpp`](./include/log/log.hpp) file to your local project and include it. Or use the repository as a git submodule.
 
 Use case:
 ```cpp
